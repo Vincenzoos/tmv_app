@@ -2,12 +2,34 @@
 
 TMVpedia is a Python application that uses Wikipedia, Google Translator, and various other libraries to provide a rich user interface for accessing and translating Wikipedia articles.
 
+---
+
+## Author
+Viet Quoc Tran (Vincent)
+
+---
+
+## Application Screenshots
+    - Loading screen
+    ![Loading Screen](screenshots/loading_screen.jpg)
+
+    - Search
+    ![Summary Mode](screenshots/summary_mode.jpg)
+    ![Full Page Mode](screenshots/full_page.jpg)
+
+    - Translation
+    ![Translation](screenshots/translation.jpg)
+
+---
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - You have installed Python 3.x on your machine.
 - You have installed the required libraries listed in the `requirements.txt` file.
+
+---
 
 ## Installation
 
@@ -30,6 +52,8 @@ Before you begin, ensure you have met the following requirements:
 4. Install fonts
     - go to `resources/fonts` and install all the fonts listed in there
 
+---
+
 ## Usage
 
 1. Run the [TMVpedia.py](http://_vscodecontentref_/0) script:
@@ -41,11 +65,15 @@ Before you begin, ensure you have met the following requirements:
 
 2. The application window will open. You can use the various features provided by the application, such as searching Wikipedia articles, translating text, and using text-to-speech.
 
+---
+
 ## Features
 
 - **Wikipedia Search**: Search for articles on Wikipedia.
 - **Google Translate**: Translate text using Google Translator.
 - **Text-to-Speech**: Convert text to speech using pyttsx3.
+
+---
 
 ## Libraries Used
 
@@ -56,6 +84,8 @@ Before you begin, ensure you have met the following requirements:
 - `pyttsx3`
 - `pygame`
 - [time](http://_vscodecontentref_/4)
+
+---
 
 ## Notes
 
