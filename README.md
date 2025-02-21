@@ -10,15 +10,15 @@ Viet Quoc Tran (Vincent)
 ---
 
 ## Application Screenshots
-    - Loading screen
-    ![Loading Screen](screenshots/loading_screen.jpg)
+- Loading screen
+![Loading Screen](screenshots/loading_screen.jpg)
 
-    - Search
-    ![Summary Mode](screenshots/summary_mode.jpg)
-    ![Full Page Mode](screenshots/full_page.jpg)
+- Search
+![Summary Mode](screenshots/summary_mode.jpg)
+![Full Page Mode](screenshots/full_page.jpg)
 
-    - Translation
-    ![Translation](screenshots/translation.jpg)
+- Translation
+![Translation](screenshots/translation.jpg)
 
 ---
 
@@ -43,6 +43,7 @@ Before you begin, ensure you have met the following requirements:
     ```
 
     method 2: mannual installation in the follow order
+    ```bash
     - pip install wikipedia
     - pip install googletrans
     - pip install Pillow
